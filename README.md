@@ -17,6 +17,10 @@
   - 단일 파일 또는 다중 파일 선택 지원
   - 빠르고 가벼운 Swift 네이티브 앱
   - macOS 11.0 이상 지원
+  
+<img width="912" height="560" alt="스크린샷 2025-09-24 오후 1 42 47" src="https://github.com/user-attachments/assets/a15cde2b-28de-4b42-8839-db140241c758" />
+<img width="712" height="544" alt="스크린샷 2025-09-24 오후 1 42 42" src="https://github.com/user-attachments/assets/0f0e7dbd-c78f-4acb-851e-1d109df8a36a" />
+
 
   ## 설치 방법
 
