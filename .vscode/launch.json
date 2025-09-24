@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:floder_uploader}",
+            "name": "Debug FolderUploader",
+            "program": "${workspaceFolder:floder_uploader}/.build/debug/FolderUploader",
+            "preLaunchTask": "swift: Build Debug FolderUploader"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:floder_uploader}",
+            "name": "Release FolderUploader",
+            "program": "${workspaceFolder:floder_uploader}/.build/release/FolderUploader",
+            "preLaunchTask": "swift: Build Release FolderUploader"
+        }
+    ]
+}

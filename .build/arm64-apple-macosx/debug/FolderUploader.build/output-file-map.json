@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/master.swiftdeps"
+  },
+  "/Users/jam/Code/Todo_App/Sources/FolderUploader/main.swift": {
+    "dependencies": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/main.d",
+    "object": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/main.swift.o",
+    "swiftmodule": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/main.swiftdeps",
+    "diagnostics": "/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/debug/FolderUploader.build/main.dia"
+  }
+}

@@ -1,0 +1,63 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jam/Code/Todo_App/.build/arm64-apple-macosx/release/FolderUploader'
+relocations:
+  - { offset: 0xEE0FC, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateCfETo', symObjAddr: 0x234, symBinAddr: 0x100002348, symSize: 0x10 }
+  - { offset: 0xEE306, size: 0x8, addend: 0x0, symName: '_$sSo15NSModalResponseaIegy_ABIeyBy_TR', symObjAddr: 0xC98, symBinAddr: 0x100002DAC, symSize: 0x3C }
+  - { offset: 0xEE452, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewCfETo', symObjAddr: 0x13BC, symBinAddr: 0x1000034D0, symSize: 0x78 }
+  - { offset: 0xEE49F, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC12numberOfRows2inSiSo07NSTableD0C_tFTo', symObjAddr: 0x1434, symBinAddr: 0x100003548, symSize: 0x14 }
+  - { offset: 0xEE4BF, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC12numberOfRows2inSiSo07NSTableD0C_tFTo', symObjAddr: 0x1434, symBinAddr: 0x100003548, symSize: 0x14 }
+  - { offset: 0xEE4DC, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC12numberOfRows2inSiSo07NSTableD0C_tFTo', symObjAddr: 0x1434, symBinAddr: 0x100003548, symSize: 0x14 }
+  - { offset: 0xEE5E3, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC05tableD0_13writeRowsWith2toSbSo07NSTableD0C_10Foundation8IndexSetVSo12NSPasteboardCtFTo', symObjAddr: 0x1594, symBinAddr: 0x1000036A8, symSize: 0xE8 }
+  - { offset: 0xEE624, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC05tableD0_7viewFor3rowSo6NSViewCSgSo07NSTableD0C_So0J6ColumnCSgSitFTo', symObjAddr: 0x167C, symBinAddr: 0x100003790, symSize: 0x84 }
+  - { offset: 0xEE6A3, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateCMa', symObjAddr: 0x178C, symBinAddr: 0x1000038A0, symSize: 0x20 }
+  - { offset: 0xEE6B7, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewCMa', symObjAddr: 0x17AC, symBinAddr: 0x1000038C0, symSize: 0x20 }
+  - { offset: 0xEE788, size: 0x8, addend: 0x0, symName: '_$ss29getContiguousArrayStorageType3fors01_bcD0CyxGmxm_tlFSo19NSPasteboardWriting_p_Ttg5', symObjAddr: 0x1B60, symBinAddr: 0x100003C74, symSize: 0xC }
+  - { offset: 0xEE7A0, size: 0x8, addend: 0x0, symName: '_$ss29getContiguousArrayStorageType3fors01_bcD0CyxGmxm_tlFSo18NSLayoutConstraintC_Ttg5', symObjAddr: 0x1B6C, symBinAddr: 0x100003C80, symSize: 0x5C }
+  - { offset: 0xEE81B, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF10Foundation3URLV_Tg5', symObjAddr: 0x1BC8, symBinAddr: 0x100003CDC, symSize: 0x174 }
+  - { offset: 0xEE935, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSS_Tg5', symObjAddr: 0x1D3C, symBinAddr: 0x100003E50, symSize: 0x1C }
+  - { offset: 0xEE94D, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSo19NSPasteboardWriting_p_Tg5', symObjAddr: 0x1D58, symBinAddr: 0x100003E6C, symSize: 0x1C }
+  - { offset: 0xEE9BD, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5', symObjAddr: 0x1D74, symBinAddr: 0x100003E88, symSize: 0x100 }
+  - { offset: 0xEEAF6, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo19NSPasteboardWriting_p_Tg5', symObjAddr: 0x1E74, symBinAddr: 0x100003F88, symSize: 0x128 }
+  - { offset: 0xEEC2F, size: 0x8, addend: 0x0, symName: '_$sSh21_nonEmptyArrayLiteralShyxGSayxG_tcfCSo16NSURLResourceKeya_Tt0g5Tf4g_n', symObjAddr: 0x1F9C, symBinAddr: 0x1000040B0, symSize: 0x1EC }
+  - { offset: 0xEEED9, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC05tableD0_13writeRowsWith2toSbSo07NSTableD0C_10Foundation8IndexSetVSo12NSPasteboardCtFTf4dnnn_n', symObjAddr: 0x2188, symBinAddr: 0x10000429C, symSize: 0x51C }
+  - { offset: 0xEF329, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC05tableD0_7viewFor3rowSo6NSViewCSgSo07NSTableD0C_So0J6ColumnCSgSitFTf4ndnn_n', symObjAddr: 0x26A4, symBinAddr: 0x1000047B8, symSize: 0x498 }
+  - { offset: 0xEF4B7, size: 0x8, addend: 0x0, symName: '_$sSo18NSLayoutConstraintCMa', symObjAddr: 0x2B3C, symBinAddr: 0x100004C50, symSize: 0x44 }
+  - { offset: 0xEF4CB, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x2B80, symBinAddr: 0x100004C94, symSize: 0x44 }
+  - { offset: 0xEF4DF, size: 0x8, addend: 0x0, symName: '_$ss16IndexingIteratorVy10Foundation8IndexSetVGWOh', symObjAddr: 0x2BC4, symBinAddr: 0x100004CD8, symSize: 0x40 }
+  - { offset: 0xEF4F3, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaMa', symObjAddr: 0x2C04, symBinAddr: 0x100004D18, symSize: 0x50 }
+  - { offset: 0xEF507, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaWOh', symObjAddr: 0x2C54, symBinAddr: 0x100004D68, symSize: 0x3C }
+  - { offset: 0xEF51B, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC06selectA6Action33_352685570E74F668E3B8A67A62D08924LLyyFySo15NSModalResponseacfU_TA', symObjAddr: 0x2CBC, symBinAddr: 0x100004DD0, symSize: 0x8 }
+  - { offset: 0xEF52F, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x2CC4, symBinAddr: 0x100004DD8, symSize: 0x10 }
+  - { offset: 0xEF543, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2CD4, symBinAddr: 0x100004DE8, symSize: 0x8 }
+  - { offset: 0xEF557, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas20_SwiftNewtypeWrapperSCSYWb', symObjAddr: 0x2CDC, symBinAddr: 0x100004DF0, symSize: 0x2C }
+  - { offset: 0xEF56B, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb', symObjAddr: 0x2D08, symBinAddr: 0x100004E1C, symSize: 0x2C }
+  - { offset: 0xEF57F, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSHSCSQWb', symObjAddr: 0x2D34, symBinAddr: 0x100004E48, symSize: 0x2C }
+  - { offset: 0xEF5EC, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFTo', symObjAddr: 0x0, symBinAddr: 0x100002114, symSize: 0xA0 }
+  - { offset: 0xEF927, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0xA0, symBinAddr: 0x1000021B4, symSize: 0x8 }
+  - { offset: 0xEFB6D, size: 0x8, addend: 0x0, symName: '_$ss15_arrayForceCastySayq_GSayxGr0_lF10Foundation3URLV_So19NSPasteboardWriting_pTg5', symObjAddr: 0x1448, symBinAddr: 0x10000355C, symSize: 0x14C }
+  - { offset: 0xEFD4B, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas21_ObjectiveCBridgeableSCsACP09_bridgeToC1C01_C5CTypeQzyFTW', symObjAddr: 0x17CC, symBinAddr: 0x1000038E0, symSize: 0x8 }
+  - { offset: 0xEFDBC, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas21_ObjectiveCBridgeableSCsACP016_forceBridgeFromC1C_6resulty01_C5CTypeQz_xSgztFZTW', symObjAddr: 0x17D4, symBinAddr: 0x1000038E8, symSize: 0x74 }
+  - { offset: 0xEFE6A, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas21_ObjectiveCBridgeableSCsACP024_conditionallyBridgeFromC1C_6resultSb01_C5CTypeQz_xSgztFZTW', symObjAddr: 0x1848, symBinAddr: 0x10000395C, symSize: 0x7C }
+  - { offset: 0xEFF09, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas21_ObjectiveCBridgeableSCsACP026_unconditionallyBridgeFromC1Cyx01_C5CTypeQzSgFZTW', symObjAddr: 0x18C4, symBinAddr: 0x1000039D8, symSize: 0x40 }
+  - { offset: 0xEFF49, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSHSCSH9hashValueSivgTW', symObjAddr: 0x1904, symBinAddr: 0x100003A18, symSize: 0x38 }
+  - { offset: 0xEFFC7, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSHSCSH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x193C, symBinAddr: 0x100003A50, symSize: 0x40 }
+  - { offset: 0xF0045, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSHSCSH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x197C, symBinAddr: 0x100003A90, symSize: 0x70 }
+  - { offset: 0xF00BB, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSQSCSQ2eeoiySbx_xtFZTW', symObjAddr: 0x19EC, symBinAddr: 0x100003B00, symSize: 0x84 }
+  - { offset: 0xF015D, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyas35_HasCustomAnyHashableRepresentationSCsACP03_todeF0s0eF0VSgyFTW', symObjAddr: 0x1ADC, symBinAddr: 0x100003BF0, symSize: 0x84 }
+  - { offset: 0xF0309, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateC7setupUI33_352685570E74F668E3B8A67A62D08924LLyyF', symObjAddr: 0xA8, symBinAddr: 0x1000021BC, symSize: 0x138 }
+  - { offset: 0xF0427, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader11AppDelegateCACycfcTo', symObjAddr: 0x1E0, symBinAddr: 0x1000022F4, symSize: 0x48 }
+  - { offset: 0xF045C, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC5frameACSo6CGRectV_tcfc', symObjAddr: 0x244, symBinAddr: 0x100002358, symSize: 0xD4 }
+  - { offset: 0xF0491, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x318, symBinAddr: 0x10000242C, symSize: 0x20 }
+  - { offset: 0xF04A5, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC5coderACSgSo7NSCoderC_tcfc', symObjAddr: 0x338, symBinAddr: 0x10000244C, symSize: 0xC4 }
+  - { offset: 0xF04DA, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x3FC, symBinAddr: 0x100002510, symSize: 0x28 }
+  - { offset: 0xF0647, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC10setupViews33_352685570E74F668E3B8A67A62D08924LLyyF', symObjAddr: 0x424, symBinAddr: 0x100002538, symSize: 0x600 }
+  - { offset: 0xF0A43, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC06selectA6Action33_352685570E74F668E3B8A67A62D08924LLyyF', symObjAddr: 0xA24, symBinAddr: 0x100002B38, symSize: 0x11C }
+  - { offset: 0xF0AA9, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC06selectA6Action33_352685570E74F668E3B8A67A62D08924LLyyFySo15NSModalResponseacfU_', symObjAddr: 0xB40, symBinAddr: 0x100002C54, symSize: 0x158 }
+  - { offset: 0xF0B3E, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC06selectA6Action33_352685570E74F668E3B8A67A62D08924LLyyFTo', symObjAddr: 0xCD4, symBinAddr: 0x100002DE8, symSize: 0x28 }
+  - { offset: 0xF0B7A, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC04scanA033_352685570E74F668E3B8A67A62D08924LL3urly10Foundation3URLV_tF', symObjAddr: 0xCFC, symBinAddr: 0x100002E10, symSize: 0x11C }
+  - { offset: 0xF0D31, size: 0x8, addend: 0x0, symName: '_$s14FolderUploader8MainViewC04scanA11Recursively33_352685570E74F668E3B8A67A62D08924LL3urly10Foundation3URLV_tF', symObjAddr: 0xE18, symBinAddr: 0x100002F2C, symSize: 0x568 }
+  - { offset: 0xF11BC, size: 0x8, addend: 0x0, symName: _FolderUploader_main, symObjAddr: 0x1700, symBinAddr: 0x100003814, symSize: 0x8C }
+  - { offset: 0xF1279, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSYSCSY8rawValuexSg03RawD0Qz_tcfCTW', symObjAddr: 0x1A70, symBinAddr: 0x100003B84, symSize: 0x44 }
+  - { offset: 0xF12A3, size: 0x8, addend: 0x0, symName: '_$sSo16NSURLResourceKeyaSYSCSY8rawValue03RawD0QzvgTW', symObjAddr: 0x1AB4, symBinAddr: 0x100003BC8, symSize: 0x28 }
+...
